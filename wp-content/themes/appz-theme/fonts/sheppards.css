@@ -1,0 +1,14 @@
+/*
+	Font: Mrs Sheppards
+*/
+
+@font-face {
+    font-family: 'mrs_sheppardsregular';
+    src: url('sheppards/mrssheppards-regular-webfont.eot');
+    src: url('sheppards/mrssheppards-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sheppards/mrssheppards-regular-webfont.woff') format('woff'),
+         url('sheppards/mrssheppards-regular-webfont.ttf') format('truetype'),
+         url('sheppards/mrssheppards-regular-webfont.svg#mrs_sheppardsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

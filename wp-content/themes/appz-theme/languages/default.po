@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Appz wordpress theme\n"
+"POT-Creation-Date: 2013-03-16 17:55+0200\n"
+"PO-Revision-Date: 2013-03-16 17:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: Themeshaker.com and Best PSD Freebies <info@themeshaker.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;_e;__;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: c:\\\\wamp\\appz\\wp-content\\themes\\appz\n"
+
+#: c:\\wamp\appz\wp-content\themes\appz/footer.php:3
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:52
+msgid "&copy; 2013 Appz. All Rights Reserved."
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/footer.php:5
+msgid "Made By"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/footer.php:5
+msgid "and"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/functions.php:81
+msgid "Slider"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/functions.php:82
+msgid "Slide"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/functions.php:97
+msgid "App feature image"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:34
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:90
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:28
+msgid "Appz"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:36
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:36
+msgid "The amazing template to show off your new iPhone App!"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:38
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:88
+msgid "Download"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:86
+msgid "Get your"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:87
+msgid "free"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:89
+msgid "of"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/index.php:91
+msgid "today!"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:20
+msgid "Main Settings"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:25
+msgid "App name"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:33
+msgid "Short app description"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:41
+msgid "Download link"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:49
+msgid "Copyright"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:59
+msgid "Styling"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:64
+msgid "Primary color"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:71
+msgid "Secondary color"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:78
+msgid "Background"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:85
+msgid "Show call to action phrase"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:86
+msgid "Get your free Download of Appz today!"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/options.php:93
+msgid "Theme font"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-framework.php:228
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-framework.php:260
+msgid "Default options restored."
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-framework.php:301
+msgid "Options saved."
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-framework.php:359
+msgid "Theme Options"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: c:\\wamp\appz\wp-content\themes\appz/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""

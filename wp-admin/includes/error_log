@@ -1,0 +1,1 @@
+[19-Aug-2016 11:07:37 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home4/mallenus/public_html/www.dolcegames.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

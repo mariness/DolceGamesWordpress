@@ -1,0 +1,4 @@
+[03-Jan-2017 20:27:21 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home4/mallenus/public_html/www.dolcegames.com/wp-admin/menu.php on line 23
+[27-May-2017 23:45:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/mallenus/public_html/www.dolcegames.com/wp-content/plugins/easy-testimonials/include/settings/testimonial.options.php on line 278
+[28-May-2017 05:37:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/mallenus/public_html/www.dolcegames.com/wp-content/plugins/easy-testimonials/include/settings/testimonial.options.php on line 278
+[29-May-2017 13:48:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/mallenus/public_html/www.dolcegames.com/wp-content/plugins/easy-testimonials/include/settings/testimonial.options.php on line 278

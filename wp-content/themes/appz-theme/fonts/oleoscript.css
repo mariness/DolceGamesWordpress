@@ -1,0 +1,14 @@
+/*
+	Font: OleoScript;
+*/
+
+@font-face {
+    font-family: 'oleo_scriptregular';
+    src: url('oleoscript/oleoscript-regular-webfont.eot');
+    src: url('oleoscript/oleoscript-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('oleoscript/oleoscript-regular-webfont.woff') format('woff'),
+         url('oleoscript/oleoscript-regular-webfont.ttf') format('truetype'),
+         url('oleoscript/oleoscript-regular-webfont.svg#oleo_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

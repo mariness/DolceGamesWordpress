@@ -1,0 +1,14 @@
+/*
+	Font: Condiment;
+*/
+
+@font-face {
+    font-family: 'condimentregular';
+    src: url('condiment/condiment-regular-webfont.eot');
+    src: url('condiment/condiment-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('condiment/condiment-regular-webfont.woff') format('woff'),
+         url('condiment/condiment-regular-webfont.ttf') format('truetype'),
+         url('condiment/condiment-regular-webfont.svg#condimentregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
